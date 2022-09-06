@@ -1,0 +1,307 @@
+02-Jan-2022 00:38:39.506 INFO [http-nio-8080-exec-75] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/RESTService]
+02-Jan-2022 00:38:48.891 INFO [http-nio-8080-exec-72] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\RESTService.war]
+02-Jan-2022 00:38:50.908 INFO [http-nio-8080-exec-72] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+02-Jan-2022 00:38:51.357 WARNING [http-nio-8080-exec-72] org.glassfish.jersey.message.internal.MessagingBinders$EnabledProvidersBinder.bindToBinder A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+02-Jan-2022 00:38:51.408 WARNING [http-nio-8080-exec-72] org.glassfish.jersey.server.wadl.WadlFeature.configure JAXBContext implementation could not be found. WADL feature is disabled.
+02-Jan-2022 00:38:51.665 INFO [http-nio-8080-exec-72] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\RESTService.war] has finished in [2,773] ms
+02-Jan-2022 00:40:27.117 INFO [http-nio-8080-exec-85] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/RESTService]
+02-Jan-2022 00:40:40.601 INFO [http-nio-8080-exec-81] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\RESTService.war]
+02-Jan-2022 00:40:42.617 INFO [http-nio-8080-exec-81] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+02-Jan-2022 00:40:43.044 WARNING [http-nio-8080-exec-81] org.glassfish.jersey.message.internal.MessagingBinders$EnabledProvidersBinder.bindToBinder A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+02-Jan-2022 00:40:43.104 WARNING [http-nio-8080-exec-81] org.glassfish.jersey.server.wadl.WadlFeature.configure JAXBContext implementation could not be found. WADL feature is disabled.
+02-Jan-2022 00:40:43.363 INFO [http-nio-8080-exec-81] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\RESTService.war] has finished in [2,762] ms
+02-Jan-2022 00:43:30.322 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+02-Jan-2022 00:43:30.322 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+02-Jan-2022 00:43:30.334 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+02-Jan-2022 00:43:30.353 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+02-Jan-2022 00:43:30.373 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+02-Jan-2022 00:43:34.042 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.56
+02-Jan-2022 00:43:34.045 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 2 2021 14:30:07 UTC
+02-Jan-2022 00:43:34.045 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.56.0
+02-Jan-2022 00:43:34.045 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+02-Jan-2022 00:43:34.045 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+02-Jan-2022 00:43:34.045 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+02-Jan-2022 00:43:34.045 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17.0.1
+02-Jan-2022 00:43:34.045 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.1+12-LTS-39
+02-Jan-2022 00:43:34.045 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+02-Jan-2022 00:43:34.045 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56
+02-Jan-2022 00:43:34.046 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56
+02-Jan-2022 00:43:34.055 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+02-Jan-2022 00:43:34.055 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+02-Jan-2022 00:43:34.055 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+02-Jan-2022 00:43:34.055 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+02-Jan-2022 00:43:34.055 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+02-Jan-2022 00:43:34.055 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\conf\logging.properties
+02-Jan-2022 00:43:34.055 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+02-Jan-2022 00:43:34.055 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-3BEMDQH
+02-Jan-2022 00:43:34.055 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+02-Jan-2022 00:43:34.055 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+02-Jan-2022 00:43:34.055 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+02-Jan-2022 00:43:34.055 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56
+02-Jan-2022 00:43:34.055 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56
+02-Jan-2022 00:43:34.056 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\temp
+02-Jan-2022 00:43:34.059 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+02-Jan-2022 00:43:34.060 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+02-Jan-2022 00:43:34.060 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+02-Jan-2022 00:43:34.063 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+02-Jan-2022 00:43:34.304 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+02-Jan-2022 00:43:34.325 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [422] milliseconds
+02-Jan-2022 00:43:34.363 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+02-Jan-2022 00:43:34.363 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.56]
+02-Jan-2022 00:43:34.388 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\RESTService.war]
+02-Jan-2022 00:43:36.119 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+02-Jan-2022 00:43:36.693 WARNING [main] org.glassfish.jersey.message.internal.MessagingBinders$EnabledProvidersBinder.bindToBinder A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+02-Jan-2022 00:43:36.759 WARNING [main] org.glassfish.jersey.server.wadl.WadlFeature.configure JAXBContext implementation could not be found. WADL feature is disabled.
+02-Jan-2022 00:43:37.048 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\RESTService.war] has finished in [2,660] ms
+02-Jan-2022 00:43:37.049 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\docs]
+02-Jan-2022 00:43:37.074 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\docs] has finished in [24] ms
+02-Jan-2022 00:43:37.074 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\examples]
+02-Jan-2022 00:43:37.456 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\examples] has finished in [382] ms
+02-Jan-2022 00:43:37.456 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\host-manager]
+02-Jan-2022 00:43:37.501 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\host-manager] has finished in [45] ms
+02-Jan-2022 00:43:37.501 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\manager]
+02-Jan-2022 00:43:37.565 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\manager] has finished in [64] ms
+02-Jan-2022 00:43:37.565 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\ROOT]
+02-Jan-2022 00:43:37.592 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\ROOT] has finished in [27] ms
+02-Jan-2022 00:43:37.594 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+02-Jan-2022 00:43:37.650 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3324] milliseconds
+02-Jan-2022 00:44:12.846 INFO [http-nio-8080-exec-9] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/RESTService]
+02-Jan-2022 00:44:18.138 INFO [http-nio-8080-exec-3] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\RESTService.war]
+02-Jan-2022 00:44:20.462 INFO [http-nio-8080-exec-3] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+02-Jan-2022 00:44:20.924 WARNING [http-nio-8080-exec-3] org.glassfish.jersey.message.internal.MessagingBinders$EnabledProvidersBinder.bindToBinder A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+02-Jan-2022 00:44:20.988 WARNING [http-nio-8080-exec-3] org.glassfish.jersey.server.wadl.WadlFeature.configure JAXBContext implementation could not be found. WADL feature is disabled.
+02-Jan-2022 00:44:21.260 INFO [http-nio-8080-exec-3] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\RESTService.war] has finished in [3,122] ms
+02-Jan-2022 00:44:32.351 INFO [http-nio-8080-exec-12] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/RESTService]
+02-Jan-2022 00:44:39.207 INFO [http-nio-8080-exec-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\RESTService.war]
+02-Jan-2022 00:44:41.269 INFO [http-nio-8080-exec-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+02-Jan-2022 00:44:41.743 WARNING [http-nio-8080-exec-1] org.glassfish.jersey.message.internal.MessagingBinders$EnabledProvidersBinder.bindToBinder A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+02-Jan-2022 00:44:41.807 WARNING [http-nio-8080-exec-1] org.glassfish.jersey.server.wadl.WadlFeature.configure JAXBContext implementation could not be found. WADL feature is disabled.
+02-Jan-2022 00:44:42.063 WARNING [http-nio-8080-exec-1] org.glassfish.jersey.internal.Errors.logErrors The following warnings have been detected: WARNING: A resource, Resource{"travel-details", 0 child resources, 0 resource methods, 0 sub-resource locator, 0 method handler classes, 0 method handler instances}, with path "travel-details" is empty. It has no resource (or sub resource) methods neither sub resource locators defined.
+
+02-Jan-2022 00:44:42.069 INFO [http-nio-8080-exec-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\RESTService.war] has finished in [2,861] ms
+02-Jan-2022 00:44:48.513 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+02-Jan-2022 00:44:48.513 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+02-Jan-2022 00:44:48.523 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+02-Jan-2022 00:44:48.539 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+02-Jan-2022 00:44:48.548 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+02-Jan-2022 00:44:51.639 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.56
+02-Jan-2022 00:44:51.643 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 2 2021 14:30:07 UTC
+02-Jan-2022 00:44:51.643 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.56.0
+02-Jan-2022 00:44:51.643 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+02-Jan-2022 00:44:51.643 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+02-Jan-2022 00:44:51.643 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+02-Jan-2022 00:44:51.643 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17.0.1
+02-Jan-2022 00:44:51.643 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.1+12-LTS-39
+02-Jan-2022 00:44:51.643 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+02-Jan-2022 00:44:51.643 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56
+02-Jan-2022 00:44:51.643 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56
+02-Jan-2022 00:44:51.652 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+02-Jan-2022 00:44:51.652 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+02-Jan-2022 00:44:51.652 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+02-Jan-2022 00:44:51.652 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+02-Jan-2022 00:44:51.653 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+02-Jan-2022 00:44:51.653 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\conf\logging.properties
+02-Jan-2022 00:44:51.653 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+02-Jan-2022 00:44:51.653 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-3BEMDQH
+02-Jan-2022 00:44:51.653 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+02-Jan-2022 00:44:51.653 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+02-Jan-2022 00:44:51.653 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+02-Jan-2022 00:44:51.653 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56
+02-Jan-2022 00:44:51.653 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56
+02-Jan-2022 00:44:51.653 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\temp
+02-Jan-2022 00:44:51.657 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+02-Jan-2022 00:44:51.676 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+02-Jan-2022 00:44:51.676 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+02-Jan-2022 00:44:51.681 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+02-Jan-2022 00:44:51.874 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+02-Jan-2022 00:44:51.889 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [375] milliseconds
+02-Jan-2022 00:44:51.917 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+02-Jan-2022 00:44:51.917 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.56]
+02-Jan-2022 00:44:51.934 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\RESTService.war]
+02-Jan-2022 00:44:53.573 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+02-Jan-2022 00:44:54.158 WARNING [main] org.glassfish.jersey.message.internal.MessagingBinders$EnabledProvidersBinder.bindToBinder A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+02-Jan-2022 00:44:54.223 WARNING [main] org.glassfish.jersey.server.wadl.WadlFeature.configure JAXBContext implementation could not be found. WADL feature is disabled.
+02-Jan-2022 00:44:54.509 WARNING [main] org.glassfish.jersey.internal.Errors.logErrors The following warnings have been detected: WARNING: A resource, Resource{"travel-details", 0 child resources, 0 resource methods, 0 sub-resource locator, 0 method handler classes, 0 method handler instances}, with path "travel-details" is empty. It has no resource (or sub resource) methods neither sub resource locators defined.
+
+02-Jan-2022 00:44:54.520 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\RESTService.war] has finished in [2,586] ms
+02-Jan-2022 00:44:54.521 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\docs]
+02-Jan-2022 00:44:54.545 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\docs] has finished in [24] ms
+02-Jan-2022 00:44:54.545 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\examples]
+02-Jan-2022 00:44:54.917 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\examples] has finished in [372] ms
+02-Jan-2022 00:44:54.917 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\host-manager]
+02-Jan-2022 00:44:54.958 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\host-manager] has finished in [41] ms
+02-Jan-2022 00:44:54.959 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\manager]
+02-Jan-2022 00:44:55.020 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\manager] has finished in [61] ms
+02-Jan-2022 00:44:55.021 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\ROOT]
+02-Jan-2022 00:44:55.047 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\ROOT] has finished in [26] ms
+02-Jan-2022 00:44:55.050 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+02-Jan-2022 00:44:55.111 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3221] milliseconds
+02-Jan-2022 00:45:00.566 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+02-Jan-2022 00:45:00.567 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+02-Jan-2022 00:45:00.577 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+02-Jan-2022 00:45:00.597 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+02-Jan-2022 00:45:00.612 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+02-Jan-2022 00:45:03.663 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.56
+02-Jan-2022 00:45:03.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 2 2021 14:30:07 UTC
+02-Jan-2022 00:45:03.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.56.0
+02-Jan-2022 00:45:03.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+02-Jan-2022 00:45:03.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+02-Jan-2022 00:45:03.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+02-Jan-2022 00:45:03.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17.0.1
+02-Jan-2022 00:45:03.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.1+12-LTS-39
+02-Jan-2022 00:45:03.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+02-Jan-2022 00:45:03.667 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56
+02-Jan-2022 00:45:03.667 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56
+02-Jan-2022 00:45:03.674 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+02-Jan-2022 00:45:03.674 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+02-Jan-2022 00:45:03.674 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+02-Jan-2022 00:45:03.674 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+02-Jan-2022 00:45:03.674 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+02-Jan-2022 00:45:03.674 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\conf\logging.properties
+02-Jan-2022 00:45:03.674 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+02-Jan-2022 00:45:03.674 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-3BEMDQH
+02-Jan-2022 00:45:03.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+02-Jan-2022 00:45:03.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+02-Jan-2022 00:45:03.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+02-Jan-2022 00:45:03.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56
+02-Jan-2022 00:45:03.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56
+02-Jan-2022 00:45:03.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\temp
+02-Jan-2022 00:45:03.678 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+02-Jan-2022 00:45:03.686 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+02-Jan-2022 00:45:03.686 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+02-Jan-2022 00:45:03.689 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+02-Jan-2022 00:45:03.874 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+02-Jan-2022 00:45:03.888 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [341] milliseconds
+02-Jan-2022 00:45:03.916 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+02-Jan-2022 00:45:03.916 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.56]
+02-Jan-2022 00:45:03.933 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\RESTService.war]
+02-Jan-2022 00:45:05.519 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+02-Jan-2022 00:45:06.092 WARNING [main] org.glassfish.jersey.message.internal.MessagingBinders$EnabledProvidersBinder.bindToBinder A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+02-Jan-2022 00:45:06.164 WARNING [main] org.glassfish.jersey.server.wadl.WadlFeature.configure JAXBContext implementation could not be found. WADL feature is disabled.
+02-Jan-2022 00:45:06.444 WARNING [main] org.glassfish.jersey.internal.Errors.logErrors The following warnings have been detected: WARNING: A resource, Resource{"travel-details", 0 child resources, 0 resource methods, 0 sub-resource locator, 0 method handler classes, 0 method handler instances}, with path "travel-details" is empty. It has no resource (or sub resource) methods neither sub resource locators defined.
+
+02-Jan-2022 00:45:06.454 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\RESTService.war] has finished in [2,521] ms
+02-Jan-2022 00:45:06.455 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\docs]
+02-Jan-2022 00:45:06.481 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\docs] has finished in [25] ms
+02-Jan-2022 00:45:06.481 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\examples]
+02-Jan-2022 00:45:06.867 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\examples] has finished in [386] ms
+02-Jan-2022 00:45:06.867 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\host-manager]
+02-Jan-2022 00:45:06.907 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\host-manager] has finished in [40] ms
+02-Jan-2022 00:45:06.908 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\manager]
+02-Jan-2022 00:45:06.970 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\manager] has finished in [62] ms
+02-Jan-2022 00:45:06.970 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\ROOT]
+02-Jan-2022 00:45:06.992 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\ROOT] has finished in [22] ms
+02-Jan-2022 00:45:06.995 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+02-Jan-2022 00:45:07.053 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3165] milliseconds
+02-Jan-2022 00:45:22.088 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+02-Jan-2022 00:45:22.089 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+02-Jan-2022 00:45:22.100 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+02-Jan-2022 00:45:22.126 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+02-Jan-2022 00:45:22.137 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+02-Jan-2022 00:45:45.807 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.56
+02-Jan-2022 00:45:45.809 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 2 2021 14:30:07 UTC
+02-Jan-2022 00:45:45.809 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.56.0
+02-Jan-2022 00:45:45.809 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+02-Jan-2022 00:45:45.809 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+02-Jan-2022 00:45:45.809 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+02-Jan-2022 00:45:45.809 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17.0.1
+02-Jan-2022 00:45:45.809 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.1+12-LTS-39
+02-Jan-2022 00:45:45.809 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+02-Jan-2022 00:45:45.809 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56
+02-Jan-2022 00:45:45.809 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56
+02-Jan-2022 00:45:45.817 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+02-Jan-2022 00:45:45.817 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+02-Jan-2022 00:45:45.817 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+02-Jan-2022 00:45:45.817 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+02-Jan-2022 00:45:45.817 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+02-Jan-2022 00:45:45.817 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\conf\logging.properties
+02-Jan-2022 00:45:45.817 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+02-Jan-2022 00:45:45.817 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-3BEMDQH
+02-Jan-2022 00:45:45.817 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+02-Jan-2022 00:45:45.818 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+02-Jan-2022 00:45:45.818 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+02-Jan-2022 00:45:45.818 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56
+02-Jan-2022 00:45:45.818 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56
+02-Jan-2022 00:45:45.818 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\temp
+02-Jan-2022 00:45:45.821 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+02-Jan-2022 00:45:45.821 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+02-Jan-2022 00:45:45.821 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+02-Jan-2022 00:45:45.824 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+02-Jan-2022 00:45:46.032 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+02-Jan-2022 00:45:46.051 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [358] milliseconds
+02-Jan-2022 00:45:46.082 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+02-Jan-2022 00:45:46.082 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.56]
+02-Jan-2022 00:45:46.102 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\RESTService.war]
+02-Jan-2022 00:45:47.750 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+02-Jan-2022 00:45:48.323 WARNING [main] org.glassfish.jersey.message.internal.MessagingBinders$EnabledProvidersBinder.bindToBinder A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+02-Jan-2022 00:45:48.391 WARNING [main] org.glassfish.jersey.server.wadl.WadlFeature.configure JAXBContext implementation could not be found. WADL feature is disabled.
+02-Jan-2022 00:45:48.667 WARNING [main] org.glassfish.jersey.internal.Errors.logErrors The following warnings have been detected: WARNING: A resource, Resource{"travel-details", 0 child resources, 0 resource methods, 0 sub-resource locator, 0 method handler classes, 0 method handler instances}, with path "travel-details" is empty. It has no resource (or sub resource) methods neither sub resource locators defined.
+
+02-Jan-2022 00:45:48.679 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\RESTService.war] has finished in [2,577] ms
+02-Jan-2022 00:45:48.680 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\docs]
+02-Jan-2022 00:45:48.706 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\docs] has finished in [26] ms
+02-Jan-2022 00:45:48.707 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\examples]
+02-Jan-2022 00:45:49.083 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\examples] has finished in [376] ms
+02-Jan-2022 00:45:49.083 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\host-manager]
+02-Jan-2022 00:45:49.125 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\host-manager] has finished in [41] ms
+02-Jan-2022 00:45:49.125 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\manager]
+02-Jan-2022 00:45:49.181 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\manager] has finished in [56] ms
+02-Jan-2022 00:45:49.181 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\ROOT]
+02-Jan-2022 00:45:49.208 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\ROOT] has finished in [27] ms
+02-Jan-2022 00:45:49.211 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+02-Jan-2022 00:45:49.267 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3215] milliseconds
+02-Jan-2022 00:46:04.858 INFO [http-nio-8080-exec-8] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/RESTService]
+02-Jan-2022 00:46:09.175 INFO [http-nio-8080-exec-5] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\RESTService.war]
+02-Jan-2022 00:46:11.352 INFO [http-nio-8080-exec-5] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+02-Jan-2022 00:46:11.811 WARNING [http-nio-8080-exec-5] org.glassfish.jersey.message.internal.MessagingBinders$EnabledProvidersBinder.bindToBinder A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+02-Jan-2022 00:46:11.872 WARNING [http-nio-8080-exec-5] org.glassfish.jersey.server.wadl.WadlFeature.configure JAXBContext implementation could not be found. WADL feature is disabled.
+02-Jan-2022 00:46:12.134 WARNING [http-nio-8080-exec-5] org.glassfish.jersey.internal.Errors.logErrors The following warnings have been detected: WARNING: A resource, Resource{"travel-details", 0 child resources, 0 resource methods, 0 sub-resource locator, 0 method handler classes, 0 method handler instances}, with path "travel-details" is empty. It has no resource (or sub resource) methods neither sub resource locators defined.
+
+02-Jan-2022 00:46:12.139 INFO [http-nio-8080-exec-5] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\RESTService.war] has finished in [2,964] ms
+02-Jan-2022 00:53:12.104 INFO [http-nio-8080-exec-20] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/RESTService]
+02-Jan-2022 00:53:26.620 INFO [http-nio-8080-exec-11] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\RESTService.war]
+02-Jan-2022 00:53:28.959 INFO [http-nio-8080-exec-11] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+02-Jan-2022 00:53:29.448 WARNING [http-nio-8080-exec-11] org.glassfish.jersey.message.internal.MessagingBinders$EnabledProvidersBinder.bindToBinder A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+02-Jan-2022 00:53:29.504 WARNING [http-nio-8080-exec-11] org.glassfish.jersey.server.wadl.WadlFeature.configure JAXBContext implementation could not be found. WADL feature is disabled.
+02-Jan-2022 00:53:29.766 INFO [http-nio-8080-exec-11] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\RESTService.war] has finished in [3,145] ms
+02-Jan-2022 00:55:14.993 INFO [http-nio-8080-exec-30] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/RESTService]
+02-Jan-2022 00:55:30.588 INFO [http-nio-8080-exec-21] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\RESTService.war]
+02-Jan-2022 00:55:32.678 INFO [http-nio-8080-exec-21] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+02-Jan-2022 00:55:33.142 WARNING [http-nio-8080-exec-21] org.glassfish.jersey.message.internal.MessagingBinders$EnabledProvidersBinder.bindToBinder A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+02-Jan-2022 00:55:33.199 WARNING [http-nio-8080-exec-21] org.glassfish.jersey.server.wadl.WadlFeature.configure JAXBContext implementation could not be found. WADL feature is disabled.
+02-Jan-2022 00:55:33.469 INFO [http-nio-8080-exec-21] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\RESTService.war] has finished in [2,881] ms
+02-Jan-2022 00:56:54.460 INFO [http-nio-8080-exec-31] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/RESTService]
+02-Jan-2022 00:57:09.124 INFO [http-nio-8080-exec-38] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\RESTService.war]
+02-Jan-2022 00:57:11.187 INFO [http-nio-8080-exec-38] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+02-Jan-2022 00:57:11.646 WARNING [http-nio-8080-exec-38] org.glassfish.jersey.message.internal.MessagingBinders$EnabledProvidersBinder.bindToBinder A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+02-Jan-2022 00:57:11.707 WARNING [http-nio-8080-exec-38] org.glassfish.jersey.server.wadl.WadlFeature.configure JAXBContext implementation could not be found. WADL feature is disabled.
+02-Jan-2022 00:57:11.976 INFO [http-nio-8080-exec-38] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\RESTService.war] has finished in [2,852] ms
+02-Jan-2022 01:05:33.014 INFO [http-nio-8080-exec-50] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/RESTService]
+02-Jan-2022 01:05:48.368 INFO [http-nio-8080-exec-44] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\RESTService.war]
+02-Jan-2022 01:05:50.491 INFO [http-nio-8080-exec-44] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+02-Jan-2022 01:05:50.943 WARNING [http-nio-8080-exec-44] org.glassfish.jersey.message.internal.MessagingBinders$EnabledProvidersBinder.bindToBinder A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+02-Jan-2022 01:05:51.001 WARNING [http-nio-8080-exec-44] org.glassfish.jersey.server.wadl.WadlFeature.configure JAXBContext implementation could not be found. WADL feature is disabled.
+02-Jan-2022 01:05:51.251 INFO [http-nio-8080-exec-44] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\RESTService.war] has finished in [2,883] ms
+02-Jan-2022 01:12:00.712 INFO [http-nio-8080-exec-53] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/RESTService]
+02-Jan-2022 01:12:10.569 INFO [http-nio-8080-exec-54] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\RESTService.war]
+02-Jan-2022 01:12:12.664 INFO [http-nio-8080-exec-54] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+02-Jan-2022 01:12:13.101 WARNING [http-nio-8080-exec-54] org.glassfish.jersey.message.internal.MessagingBinders$EnabledProvidersBinder.bindToBinder A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+02-Jan-2022 01:12:13.158 WARNING [http-nio-8080-exec-54] org.glassfish.jersey.server.wadl.WadlFeature.configure JAXBContext implementation could not be found. WADL feature is disabled.
+02-Jan-2022 01:12:13.432 INFO [http-nio-8080-exec-54] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\RESTService.war] has finished in [2,863] ms
+02-Jan-2022 01:22:55.483 INFO [http-nio-8080-exec-61] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/RESTService]
+02-Jan-2022 01:23:07.107 INFO [http-nio-8080-exec-65] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\RESTService.war]
+02-Jan-2022 01:23:09.173 INFO [http-nio-8080-exec-65] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+02-Jan-2022 01:23:09.618 WARNING [http-nio-8080-exec-65] org.glassfish.jersey.message.internal.MessagingBinders$EnabledProvidersBinder.bindToBinder A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+02-Jan-2022 01:23:09.673 WARNING [http-nio-8080-exec-65] org.glassfish.jersey.server.wadl.WadlFeature.configure JAXBContext implementation could not be found. WADL feature is disabled.
+02-Jan-2022 01:23:09.931 INFO [http-nio-8080-exec-65] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\RESTService.war] has finished in [2,824] ms
+02-Jan-2022 01:24:18.294 INFO [http-nio-8080-exec-73] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/RESTService]
+02-Jan-2022 01:24:33.221 INFO [http-nio-8080-exec-79] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\RESTService.war]
+02-Jan-2022 01:24:35.351 INFO [http-nio-8080-exec-79] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+02-Jan-2022 01:24:35.795 WARNING [http-nio-8080-exec-79] org.glassfish.jersey.message.internal.MessagingBinders$EnabledProvidersBinder.bindToBinder A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+02-Jan-2022 01:24:35.856 WARNING [http-nio-8080-exec-79] org.glassfish.jersey.server.wadl.WadlFeature.configure JAXBContext implementation could not be found. WADL feature is disabled.
+02-Jan-2022 01:24:36.109 INFO [http-nio-8080-exec-79] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [D:\Documents\Work\Uni Year 3\SCCC\Server\apache-tomcat-9.0.56\webapps\RESTService.war] has finished in [2,889] ms
+02-Jan-2022 01:36:50.054 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+02-Jan-2022 01:36:50.054 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+02-Jan-2022 01:36:50.064 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+02-Jan-2022 01:36:50.077 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+02-Jan-2022 01:36:50.094 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "elFouWUiWKqP/+duxxlMTbYNYBQQNL2QbMD8+xKyCJwmEVUoELA7Xl1ih4Qxe884PzViZudkBsENBs7vtST+4g==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\Work\\Uni Year 3\\SCCC\\Implementation\\ClientApplicationC\\ClientApplicationC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hassa\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\hassa\\.nuget\\packages\\restsharp\\107.0.3\\restsharp.107.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
